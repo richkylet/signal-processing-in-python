@@ -1,4 +1,4 @@
-# iPython-signal-processing
+# signal-processing-iPython
 
 Some basic signal processing examples using ipython. This is a work in progress of compiled codes that I'll continue to update. 
 
