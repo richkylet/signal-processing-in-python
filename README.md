@@ -4,6 +4,19 @@ Some basic signal processing examples in Python. This is a work in progress of c
 
 I've tried to boil down these codes so that they are broadly applicable and generalized. 
 
+[1] [Intro to sound and waves](https://github.com/richkylet/signal-processing-in-python/blob/master/01_introSound.ipynb) 
+
+[2] [Power spectrum estimation](https://github.com/richkylet/signal-processing-in-python/blob/master/02_PSD_estimation.ipynb) 
+
+[3] [Signal sampling and aliasing](https://github.com/richkylet/signal-processing-in-python/blob/master/03_FourierTransformAlias.ipynb)
+
+[4] [Windowing function](https://github.com/richkylet/signal-processing-in-python/blob/master/04_Windowing.ipynb) 
+
+[5] [Spectrogram](https://github.com/richkylet/signal-processing-in-python/blob/master/05_Spectrogram.ipynb) 
+
+[6] [Filtering](https://github.com/richkylet/signal-processing-in-python/blob/master/06_Filtering.ipynb) 
+
+
 
 Software licensed under the MIT License
 ------------
